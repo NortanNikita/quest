@@ -318,5 +318,8 @@ ul.countdown li p:after{border-width:6px;margin-left:-6px;}
 
 }
 .bg-chernobil{
-background-image:url(../images/Chernobil_bg.jpg)!important
+background-image:url(../images/bg-3.jpg)!important;
+background-size:contain;
+background-repeat: no-repeat;
+background-position: right;
 }
