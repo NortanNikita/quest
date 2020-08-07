@@ -1,0 +1,615 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.quest-room.zp.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2672                
+POS_VISITOR 17550               
+POS_DAY 25824               
+POS_DOMAIN 3501                
+POS_LOGIN 3734                
+POS_ROBOT 3889                
+POS_WORMS 4435                
+POS_EMAILSENDER 4566                
+POS_EMAILRECEIVER 4709                
+POS_SESSION 26657               
+POS_SIDER 26860               
+POS_FILETYPES 4844                
+POS_DOWNLOADS 5085                
+POS_OS 5156                
+POS_BROWSER 5284                
+POS_SCREENSIZE 6553                
+POS_UNKNOWNREFERER 6627                
+POS_UNKNOWNREFERERBROWSER 7124                
+POS_ORIGIN 7317                
+POS_SEREFERRALS 7459                
+POS_PAGEREFS 7637                
+POS_SEARCHWORDS 8019                
+POS_KEYWORDS 12611               
+POS_MISC 2334                
+POS_ERRORS 17088               
+POS_CLUSTER 3590                
+POS_SIDER_404 17196               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180701011917 5 718 10151707403720
+FirstTime 20180601083227
+LastTime 20180630175012
+LastUpdate 20180701044453 5 0 4 0 0
+TotalVisits 205                 
+TotalUnique 166                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 222                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 112 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 122 26278826 12 43 1393769
+1 11 72 3323146 13 63 689888
+2 10 68 12992448 8 28 244581
+3 5 29 846857 5 15 64852
+4 5 25 874944 5 15 70980
+5 7 50 2299233 2 12 97237
+6 2 3 73289 5 29 387852
+7 5 18 248279 6 14 120946
+8 18 142 15863706 7 22 78132
+9 12 67 1872965 3 12 49428
+10 25 242 40309013 8 25 188983
+11 22 211 39634857 7 21 125174
+12 24 228 28225233 8 21 72655
+13 7 47 2118231 4 14 84719
+14 29 265 51912469 6 67 14473091
+15 30 266 30273082 9 25 143477
+16 19 176 28436963 5 18 94452
+17 21 190 18123768 9 33 298044
+18 15 91 15342625 7 29 228978
+19 26 218 18899211 18 56 829026
+20 30 245 50880756 12 22 162753
+21 22 206 38199324 4 18 40109
+22 27 218 17866227 9 26 1575262
+23 23 155 5548650 7 30 740362
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 408 3354 450444102
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+googlebot 227 2892123 20180629174948 19
+yandex 138 809850 20180630022324 53
+bot[\s_+:,\.\;\/\\-] 94 1240672 20180628165614 10
+facebook 36 15260605 20180626142211 0
+no_user_agent 13 730504 20180626142227 0
+ia_archiver 11 134860 20180620202157 4
+baiduspider 8 60960 20180616124040 0
+unknown 7 2220 20180620163145 7
+robot 3 8292 20180630173353 2
+favicon 2 15240 20180621195645 0
+cfnetwork 2 1000370 20180613221544 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 652 4903068 0 0
+eot 16 646084 0 0
+png 445 797705 0 0
+ttf 3 265556 0 0
+woff 157 9512660 0 0
+html 232 1890088 0 0
+js 1091 16924874 0 0
+jpg 679 414809803 0 0
+gif 79 694264 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 95 0 29236
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+linuxandroid 1045
+winxp 2
+winnt 538
+linux 102
+winvista 78
+win7 899
+macosx 638
+Unknown 52
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 65
+chrome50.0.2661.89 32
+firefox26.0 1
+safari11.1.1 15
+chrome69.0.3466.0 16
+firefox18.0 1
+chrome59.0.3071.117 16
+curl 2
+chrome58.0.3029.110 46
+msie8.0 43
+chrome60.0.3112.78 48
+chrome53.0.2785.146 56
+firefox43.0 1
+firefox59.0 2
+chrome53.0.2785.124 16
+chrome62.0.3202.89 1
+chrome66.0.3359.181 417
+chrome49.0.2623.112 1
+chrome65.0.3325.181 79
+chrome67.0.3396.81 16
+firefox53.0 2
+firefox42.0 1
+chrome58.0.3029.83 45
+chrome61.0.3163.140 1
+chrome63.0.3239.132 1
+chrome62.0.3202.94 16
+mozilla 72
+netscape5.0 1
+firefox60.0 68
+chrome44.0.2403.147 39
+chrome64.0.3282.186 29
+chrome41.0.2228.0 31
+safari11.1.2 15
+safari 63
+safari7.0 1
+chrome67.0.3396.87 325
+safari11.0 408
+android 52
+safari12.0 47
+chrome67.0.3396.79 46
+opera9.80 38
+iphone 1
+chrome61.0.3163.100 12
+chrome45.0.2454.93 4
+chrome40.0.2214.85 54
+chrome56.0.2924.76 48
+safari8.0 1
+chrome61.0.3163.91 86
+chrome66.0.3359.158 132
+Unknown 9
+chrome67.0.3396.68 71
+chrome60.0.3112.116 49
+chrome66.0.3359.126 16
+firefox32.1 2
+chrome63.0.3239.111 16
+safari10.0 77
+chrome59.0.3071.125 16
+chrome58.0.3014.0 15
+chrome62.0.3202.84 32
+chrome67.0.3396.99 68
+chrome45.0.2454.101 10
+msie10.0 50
+chrome66.0.3359.170 78
+chrome65.0.3325.146 288
+chrome65.0.3325.109 49
+chrome64.0.3282.140 60
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0 20180610002320
+com.google.GoogleMobile/51.0.0_iPhone/11.4_hw/iPhone10_3 20180617174104
+curl/7.52.1 20180615022334
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20180621081418
+NetTrack_Anonymous_Web_Statistics_https://nettrack.info/support.php 20180602015610
+okhttp/3.9.1 20180629223741
+Opera/9.80_(Android;_Opera_Mini/35.0.2254/103.109;_U;_ru)_Presto/2.12.423_Version/12.16 20180613222405
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+NetTrack_Anonymous_Web_Statistics_https://nettrack.info/support.php 20180602015610
+okhttp/3.9.1 20180629223741
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 91 147
+From1 3 3
+From2 73 78
+From3 38 38
+From4 203 3088
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 63 67
+bing 1 1
+yandex 9 10
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://l.facebook.com/l.php 17 17
+http://away.vk.com/away.php 11 11
+https://www.youtube.com 3 3
+https://l.instagram.com 3 3
+https://www.yandex.ua/clck/jsredir 1 1
+https://yandex.fr 1 1
+https://yandex.ua 1 1
+http://l.instagram.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 5
+https+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1828.h_rlbuunw507eyqmlsqou49ij9qh0kp5ixpdd6_g5x-gkcvp2co9q0rvcysr3aup.e58c16ee0c5d01bfdbc63f5f215c901cca4fab4f%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0yhrngn3ksbhjbmukku86_my%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxcvh6tmlva0hxbediaxkwdznjmkzgmgxerxrvsfhonlrstflsvxrfaenmx1jpwm5ut21nvdlxytrktk5ftdfkqudnmmvmyk5otkzfenhhmtruuxnkcnm%26b64e%3d2%26sign%3de9dbdf01e8607a21342c6e03ecbfdf3d%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqxbyqp9t5vf6odhjr94zurn1_jqvehutzwakmvjgxad4mkgaqosk_50lrayx6_ka8oacpaagq3zb_bw5v0uwzsabsaixd5mbnzgcmvrtuoyexpyfq-gbcamq1rfjjhfwludlcn8piacm%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcxefko1imooe4x9chxqfkchn9gmfsqqwksnwdbpjr0kv2vcosqfbzyzhcti1bqcyi-eapg116wbmvm-vtkc8yxw%26l10n%3dru%26cts%3d1529793098516%26mc%3d3.51402018527 1
+https+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1828.p3eoxznwyl6rvpvfulxymba7yvcpn1xn9ntcrggklm2bd_qgxpfgh-i3eh-ydxrh.9119dde8292e44a8f6f29af01e7ab7bde4011925%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ycybcirwnuha-mulbia3ohy%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxcvh6tmlva0hxbediaxkwdznjmkzgmgxerxrvsfhonlr1r2d2z2piltnlale3ohl0cejdsjnnammwcvd3rwtvrnmwcutwrzrxtvvmn1e1rwk0wlnrule%26b64e%3d2%26sign%3d95eaa3ccaeef31499791682e7edb0f1b%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqsaytyyri96fok7zu_88tjh03xmf0vng4mavvz9zlh5emdfm-hcnnukjyujdrben-4m4tggihzlbgdqsxgmrfk8kvchsigcizhq63cr4fg1mtvmtzhnstvrwzwmw2uypu2x7bplb6wbr%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcx9u1h5sqoio1stamxsimbwy3xalsdko9zjpvdhh35mah1meemlehk1wfxci1veivysoo0mcno5kg%26l10n%3dru%26cts%3d1529746235780%26mc%3d7.13570474077 1
+https+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1832.2wtfmhwfyzuihk9bal2nobww9yiuokhyx805o5g2xggpulpf1zimtczwaikobip3.60aa79330aa1492239ffe05e77cb6e133485da28%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ymkospatjluqgxh-xwlwn-g%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxcvh6tmlva0hxbediaxkwdznjmkzgmgxerxrvsfhonlrpzmx6u3bmcfz5dhvoeljwwl92yux5ajf0ejrnvdmzyktvswl2s0gtctj0mkq0mm5enw15rhm%26b64e%3d2%26sign%3d006c87ceac04c6875c12d651b99780c9%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqsaytyyri96fnutwh6md1afc_73oax3lonljuiw7tttrmetzx9jto7sg8qhnjwnobfayzzmzwenskr374a9ip_l7wdutmvx0hy-p_othastigl2yewqkjjwxzlykrc8f4rjebbtnppdq%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcxmycrj7vrkudjn3vwktyejm0fz-mw5bsbjj14cjigdubdtzhbzhsvd-xldeh3b3kzrdeiaoh1y5w_o5stw-k20%26l10n%3dru%26cts%3d1530117089232%26mc%3d5.36607749083 1
+https+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1830.2vswj6y5hkreulwi7dlai0yya_rn8wlrr1trmd-6mmnkcb_x-yxtna3q5byzws9l.b30f8816670cd32319d3a514158ed8c125472a33%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ymivjntowdta6ctl47tpu5i%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxcvh6tmlva0hxbediaxkwdznjmkzgmkd4tvhmvlhttf9fvujuq202wl9ctwjkyzjiu3rjtnjtywq0sxpovxpzv1lau3oxoxjndljgc2ztwursy2pwsfhvtvhvoffnytlaqq%26b64e%3d2%26sign%3d20d4b01df9cc8e190a45f8a1c5e5b9f9%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqypgpuyh7uql2sskv2ea75_cecoopxkewt4wfzloug1mknrq3lc-_db9ddxscfuapay6kx8oqvimxc0unae_cipso58a0aom_bl4nvxbum26qgbct91x0bpxqdco0hccqe0hjueqnczx%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcv-htq36ufk04gk3b8s6bvytclpihlrcqt9so0llzbdlyrb84hkxffolvehjsn4621reijpbobhvqlcwhopiveq%26l10n%3dru%26cts%3d1529957809659%26mc%3d6.87688072089 1
+https+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1833.jtrgg16n1etungivytbqibn5ek5tu30_mxhegagevhcp9gbja-zbby3xsxfchu7z.d2d63dbb2695b5f3b854937faf0e391e33f702ed%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ygftrg9cp1erjbfvtucxdxk%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxcvh6tmlva0hxbediaxkwdznjmkzgmgxerxrvsfhonlrzatzqnvbzcjexundjd2jhataxbtjebllztfdncnzksw1mz0lwbtr2zmfyuxpwreewmk9mvmm%26b64e%3d2%26sign%3d62dfda8a3fb72bf811899e9bb384fad7%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqypgpuyh7uqlq3x3w7npatvils41x948fydf00l3mwvj8jcrbydfm49uk0q-ge9vpz_vy8_atdvlb1qfqn1tvezqr7xhjjub16mxjjwsw9wyo8ninlzhgxyddwxgeql_rx4ofjpnzliz%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcvlviuok4qiejedcqyue9fre3_zvff8-mcr2o9eqlqrwdofv0tm6xkeji-nl6qlw4vwcqbzhtaiv9wwpvruolod%26l10n%3dru%26cts%3d1530217196000%26mc%3d6.09539339186 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+https 5
+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1833.jtrgg16n1etungivytbqibn5ek5tu30_mxhegagevhcp9gbja-zbby3xsxfchu7z.d2d63dbb2695b5f3b854937faf0e391e33f702ed%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ygftrg9cp1erjbfvtucxdxk%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxcvh6tmlva0hxbediaxkwdznjmkzgmgxerxrvsfhonlrzatzqnvbzcjexundjd2jhataxbtjebllztfdncnzksw1mz0lwbtr2zmfyuxpwreewmk9mvmm%26b64e%3d2%26sign%3d62dfda8a3fb72bf811899e9bb384fad7%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqypgpuyh7uqlq3x3w7npatvils41x948fydf00l3mwvj8jcrbydfm49uk0q-ge9vpz_vy8_atdvlb1qfqn1tvezqr7xhjjub16mxjjwsw9wyo8ninlzhgxyddwxgeql_rx4ofjpnzliz%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcvlviuok4qiejedcqyue9fre3_zvff8-mcr2o9eqlqrwdofv0tm6xkeji-nl6qlw4vwcqbzhtaiv9wwpvruolod%26l10n%3dru%26cts%3d1530217196000%26mc%3d6.09539339186 1
+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1828.p3eoxznwyl6rvpvfulxymba7yvcpn1xn9ntcrggklm2bd_qgxpfgh-i3eh-ydxrh.9119dde8292e44a8f6f29af01e7ab7bde4011925%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ycybcirwnuha-mulbia3ohy%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxcvh6tmlva0hxbediaxkwdznjmkzgmgxerxrvsfhonlr1r2d2z2piltnlale3ohl0cejdsjnnammwcvd3rwtvrnmwcutwrzrxtvvmn1e1rwk0wlnrule%26b64e%3d2%26sign%3d95eaa3ccaeef31499791682e7edb0f1b%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqsaytyyri96fok7zu_88tjh03xmf0vng4mavvz9zlh5emdfm-hcnnukjyujdrben-4m4tggihzlbgdqsxgmrfk8kvchsigcizhq63cr4fg1mtvmtzhnstvrwzwmw2uypu2x7bplb6wbr%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcx9u1h5sqoio1stamxsimbwy3xalsdko9zjpvdhh35mah1meemlehk1wfxci1veivysoo0mcno5kg%26l10n%3dru%26cts%3d1529746235780%26mc%3d7.13570474077 1
+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1832.2wtfmhwfyzuihk9bal2nobww9yiuokhyx805o5g2xggpulpf1zimtczwaikobip3.60aa79330aa1492239ffe05e77cb6e133485da28%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ymkospatjluqgxh-xwlwn-g%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxcvh6tmlva0hxbediaxkwdznjmkzgmgxerxrvsfhonlrpzmx6u3bmcfz5dhvoeljwwl92yux5ajf0ejrnvdmzyktvswl2s0gtctj0mkq0mm5enw15rhm%26b64e%3d2%26sign%3d006c87ceac04c6875c12d651b99780c9%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqsaytyyri96fnutwh6md1afc_73oax3lonljuiw7tttrmetzx9jto7sg8qhnjwnobfayzzmzwenskr374a9ip_l7wdutmvx0hy-p_othastigl2yewqkjjwxzlykrc8f4rjebbtnppdq%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcxmycrj7vrkudjn3vwktyejm0fz-mw5bsbjj14cjigdubdtzhbzhsvd-xldeh3b3kzrdeiaoh1y5w_o5stw-k20%26l10n%3dru%26cts%3d1530117089232%26mc%3d5.36607749083 1
+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1828.h_rlbuunw507eyqmlsqou49ij9qh0kp5ixpdd6_g5x-gkcvp2co9q0rvcysr3aup.e58c16ee0c5d01bfdbc63f5f215c901cca4fab4f%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0yhrngn3ksbhjbmukku86_my%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxcvh6tmlva0hxbediaxkwdznjmkzgmgxerxrvsfhonlrstflsvxrfaenmx1jpwm5ut21nvdlxytrktk5ftdfkqudnmmvmyk5otkzfenhhmtruuxnkcnm%26b64e%3d2%26sign%3de9dbdf01e8607a21342c6e03ecbfdf3d%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqxbyqp9t5vf6odhjr94zurn1_jqvehutzwakmvjgxad4mkgaqosk_50lrayx6_ka8oacpaagq3zb_bw5v0uwzsabsaixd5mbnzgcmvrtuoyexpyfq-gbcamq1rfjjhfwludlcn8piacm%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcxefko1imooe4x9chxqfkchn9gmfsqqwksnwdbpjr0kv2vcosqfbzyzhcti1bqcyi-eapg116wbmvm-vtkc8yxw%26l10n%3dru%26cts%3d1529793098516%26mc%3d3.51402018527 1
+//yandex.ru/clck/jsredir%3ffrom%3dyandex.ru%253bsearch%253bweb%253b%253b%26text%3d%26etext%3d1830.2vswj6y5hkreulwi7dlai0yya_rn8wlrr1trmd-6mmnkcb_x-yxtna3q5byzws9l.b30f8816670cd32319d3a514158ed8c125472a33%26uuid%3d%26state%3d_blhiln4sxnivvl0w45ksic66ucig23qh8irg98qeixmeppkguc0ymivjntowdta6ctl47tpu5i%26data%3dulnrnmk5wktyejr0ewjfyk1ldmtxcvh6tmlva0hxbediaxkwdznjmkzgmkd4tvhmvlhttf9fvujuq202wl9ctwjkyzjiu3rjtnjtywq0sxpovxpzv1lau3oxoxjndljgc2ztwursy2pwsfhvtvhvoffnytlaqq%26b64e%3d2%26sign%3d20d4b01df9cc8e190a45f8a1c5e5b9f9%26keyno%3d0%26cst%3daiuy0dbwfj7ixge4wdyjqypgpuyh7uql2sskv2ea75_cecoopxkewt4wfzloug1mknrq3lc-_db9ddxscfuapay6kx8oqvimxc0unae_cipso58a0aom_bl4nvxbum26qgbct91x0bpxqdco0hccqe0hjueqnczx%26ref%3dorjy4mgprjk5bodnw0uvlrrd71vzw9kp5uqozpmtkcv-htq36ufk04gk3b8s6bvytclpihlrcqt9so0llzbdlyrb84hkxffolvehjsn4621reijpbobhvqlcwhopiveq%26l10n%3dru%26cts%3d1529957809659%26mc%3d6.87688072089 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 1 1929
+206 1 2304
+404 3 1189
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 2
+/google93451a5fac5824db.html 1 -
+/up.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 222
+31.170.151.68 9 63 11684593 20180618155127
+188.163.99.225 8 52 2619083 20180618152846
+178.137.116.85 7 64 689868 20180626110529
+93.183.226.209 7 68 13139625 20180615104236
+13.57.220.0 7 7 53340 20180620044554
+35.205.134.136 6 48 2110989 20180606195057
+35.205.118.55 6 48 2110989 20180615232037
+35.205.119.130 6 48 2110989 20180614011821
+35.233.60.96 6 48 2110989 20180608195731
+35.205.42.77 6 48 2110989 20180614055849
+77.111.244.30 3 48 12690410 20180623214709
+77.111.247.74 2 15 203478 20180608212200
+173.252.124.122 1 7 39985 20180623194212
+93.127.46.92 2 15 203478 20180615152307
+66.220.156.17 1 4 20339 20180616195736
+31.13.114.53 0 3 20930 
+104.193.88.244 3 3 88683 20180627105327
+93.127.114.113 0 1 500185 
+104.36.16.11 1 1 7620 20180626085940
+185.125.231.239 3 16 226770 20180609215833
+40.77.189.231 0 2 37672 
+93.76.75.159 3 48 12690410 20180628005402
+188.163.97.176 2 39 12587739 20180626142720
+217.237.116.95 1 13 137936 20180607175815
+194.8.51.253 3 48 12690410 20180622115858
+69.171.240.87 0 2 17418 
+212.8.51.247 3 48 12690410 20180606200122
+66.220.151.182 0 2 13888 
+178.218.79.170 3 48 12690410 20180610170305
+66.249.88.1 1 5 557971 20180624200127
+178.136.112.245 2 15 203478 20180614120839
+146.185.223.25 1 1 7620 20180613075028
+77.93.32.38 3 48 12690410 20180614160850
+195.211.187.179 3 17 726955 20180612201633
+195.211.187.204 5 87 25278149 20180625100114
+69.171.240.81 0 3 56329 
+46.133.253.54 4 20 1211757 20180613221543
+173.252.122.59 2 8 122062 20180625032246
+173.252.98.29 0 2 17418 
+173.252.84.58 0 5 60651 
+185.22.174.144 2 15 203478 20180613214708
+89.252.35.198 3 16 214322 20180627155641
+93.78.58.211 3 16 226770 20180616145937
+66.220.151.180 0 1 1636 
+37.73.15.175 0 1 500185 
+176.212.128.78 1 1 29561 20180616182428
+40.77.188.127 0 1 6169 
+46.211.110.96 0 1 500185 
+64.246.165.210 1 1 7620 20180602125054
+66.220.156.21 1 6 137633 20180616195737
+207.154.213.244 2 16 703663 20180624223153
+66.220.151.177 0 5 88256 
+188.163.96.230 2 16 703663 20180603172045
+40.77.188.217 1 2 134144 20180622082902
+95.220.90.70 3 14 210720 20180609111826
+188.163.97.20 2 15 203478 20180605221111
+188.32.9.134 3 12 172541 20180627194103
+40.77.188.80 0 1 22651 
+173.252.124.124 0 4 43258 
+192.40.95.39 2 15 203478 20180618163400
+66.102.9.150 4 30 10400110 20180610204126
+128.69.182.174 2 8 163661 20180604001356
+66.220.151.210 0 5 26670 
+46.133.82.232 2 16 703663 20180608103829
+46.105.124.55 2 2 59122 20180623221614
+46.133.121.132 2 16 638211 20180601145336
+46.119.219.50 4 49 12713702 20180601084127
+178.218.69.1 2 16 233039 20180601150202
+31.13.114.48 0 2 66104 
+185.208.230.216 2 16 703663 20180603151504
+207.154.234.234 2 16 703663 20180602173451
+46.133.2.222 2 16 703663 20180629230209
+107.167.105.138 3 18 745105 20180613222405
+89.222.164.35 2 8 163661 20180602040958
+52.53.201.78 5 5 38100 20180630175012
+194.239.236.184 3 45 12679031 20180611155213
+69.171.240.80 0 2 38110 
+195.211.187.41 1 5 36291 20180619010727
+173.252.92.116 0 15 1614391 
+37.73.97.206 3 17 726955 20180623202131
+31.13.114.12 1 3 67178 20180605221118
+66.220.151.179 0 2 18836 
+40.77.190.48 0 1 84249 
+37.73.55.120 2 16 703663 20180607170026
+173.252.98.22 0 3 28335 
+162.213.38.29 1 1 7620 20180605114809
+93.76.73.166 2 16 703663 20180625175034
+66.249.89.26 1 1 355 20180621081418
+93.74.74.122 2 15 203478 20180618110851
+92.112.200.144 1 13 137936 20180603224539
+66.102.9.148 4 33 2407311 20180618141812
+40.77.189.123 0 4 190952 
+185.188.183.55 2 2 59122 20180619200025
+66.102.9.146 2 34 2017270 20180618141810
+95.220.67.70 3 11 207155 20180625231653
+178.151.206.230 4 32 1407326 20180606234747
+40.77.190.12 0 1 31819 
+46.211.125.28 4 48 22062737 20180604201710
+5.248.22.134 3 47 13183807 20180628165735
+107.170.29.99 1 1 65452 20180624200132
+77.93.42.190 0 1 500185 
+92.112.225.61 3 45 12686832 20180619121156
+77.93.41.138 3 29 841599 20180626152037
+31.13.114.7 0 2 38110 
+90.188.119.132 0 1 36108 
+108.171.131.186 0 1 158683 
+159.224.186.40 2 15 203478 20180608212550
+46.133.97.234 3 45 12679031 20180613221647
+40.77.189.96 0 2 111042 
+162.243.161.184 2 32 11987669 20180623201807
+45.33.93.110 1 1 29561 20180615022334
+173.252.127.22 0 2 26699 
+69.171.240.86 2 8 91621 20180621075612
+93.170.1.195 2 16 703663 20180619222559
+207.182.134.154 2 2 29850 20180602015610
+85.198.135.150 4 30 406956 20180613140315
+188.163.99.221 3 49 13190595 20180601192022
+109.87.149.122 2 16 703663 20180621200256
+40.77.190.165 1 2 158723 20180608034023
+173.252.122.58 0 4 75586 
+31.13.114.52 0 2 26699 
+91.217.58.10 2 15 203478 20180622084038
+31.13.114.5 1 6 26079 20180605221117
+66.220.151.215 2 6 84005 20180608215457
+173.252.84.55 1 6 50586 20180613222924
+77.93.54.70 2 16 703663 20180625104607
+66.220.156.19 0 2 38110 
+31.13.114.55 1 5 22567 20180618125916
+194.28.182.4 0 1 158683 
+66.220.156.20 0 2 5760 
+173.252.98.28 1 12 101373 20180615085623
+37.73.17.52 4 20 1211757 20180601181156
+104.193.88.243 1 1 29561 20180622004900
+184.94.240.92 2 2 59122 20180613022638
+188.32.41.32 3 14 210720 20180623132737
+46.119.11.52 2 2 88744 20180602184156
+212.8.63.2 0 1 500185 
+94.25.169.122 1 1 65452 20180610204127
+173.252.84.57 1 4 92241 20180613222925
+52.71.155.178 1 1 2257 20180622025802
+173.252.122.60 0 3 5830 
+66.220.151.181 0 2 41905 
+66.220.151.208 0 2 54693 
+46.133.37.91 2 16 703663 20180614192957
+192.162.140.148 2 16 703663 20180607121454
+173.252.127.13 0 7 89226 
+64.246.165.190 1 1 7620 20180620163146
+209.58.148.28 3 48 12690410 20180612153234
+95.85.37.142 2 16 703663 20180626141324
+66.220.156.22 0 1 1636 
+93.76.76.90 4 30 406956 20180627170846
+37.73.62.180 2 16 703663 20180622042439
+37.73.37.39 2 16 703663 20180622144553
+77.93.54.65 3 48 12690410 20180622024300
+192.40.95.38 2 8 105345 20180619102704
+173.252.124.126 1 4 120235 20180623194214
+66.220.151.213 0 2 38110 
+188.163.99.242 2 16 703663 20180616151758
+91.234.226.11 1 5 36291 20180618095336
+66.249.88.4 1 4 79410 20180624200130
+178.210.193.16 1 1 65452 20180607184015
+173.252.127.17 1 5 47074 20180611024141
+188.163.99.131 1 6 34612 20180603105447
+40.77.190.129 1 1 41236 20180608034024
+40.77.188.91 0 1 84249 
+40.77.188.156 0 1 120214 
+31.13.114.10 0 4 72111 
+173.252.92.115 0 1 9355823 
+151.70.187.18 0 1 158683 
+40.77.189.117 0 3 59972 
+93.175.216.43 2 40 21342570 20180626142042
+66.220.151.183 1 9 146905 20180604202429
+188.163.98.236 3 15 211008 20180610094736
+66.220.151.178 3 8 92018 20180611205538
+173.252.127.15 2 8 114252 20180619221520
+46.119.212.245 1 1 65452 20180618141812
+87.255.31.17 3 45 12679031 20180623112111
+173.249.24.45 2 2 59122 20180630164333
+45.33.132.23 2 16 703663 20180613124640
+77.121.132.162 2 15 203478 20180612095604
+104.236.56.153 1 1 7620 20180612023231
+173.252.127.16 0 2 17418 
+104.36.17.77 1 1 7620 20180619144258
+173.252.98.23 0 11 106492 
+40.77.190.109 0 2 37672 
+46.133.216.45 3 46 12683622 20180610002619
+46.211.105.180 3 17 726955 20180604140827
+173.252.127.18 1 6 112287 20180611024144
+40.77.189.142 0 1 109518 
+188.93.56.216 1 1 7620 20180603032058
+46.119.218.22 2 16 703663 20180624230213
+176.36.101.228 2 17 1203848 20180623163442
+128.199.241.231 2 15 203478 20180611171553
+188.163.96.123 2 15 203478 20180622143338
+66.249.88.30 0 7 66282 
+46.211.158.45 2 16 703663 20180608172750
+91.214.28.19 2 15 203478 20180628165550
+31.13.114.51 1 3 67178 20180618125917
+173.252.98.24 4 14 252920 20180620102404
+188.163.96.168 4 49 12713702 20180629210702
+104.155.111.115 6 48 2110989 20180607083816
+176.193.234.95 3 14 210720 20180615093206
+91.213.59.20 4 86 12759464 20180628122004
+173.252.98.26 1 8 105279 20180607225530
+95.215.164.34 3 46 12683622 20180604123917
+95.27.46.21 3 12 176085 20180628233140
+37.73.81.50 2 16 703663 20180604172830
+31.170.136.100 2 20 2704403 20180604172117
+188.105.77.56 3 16 211098 20180617162028
+77.111.247.75 2 15 203478 20180601232053
+173.252.92.117 2 14 763270 20180626142159
+128.68.19.10 0 1 500185 
+107.167.106.50 5 20 752725 20180613122144
+46.56.112.61 2 16 703663 20180629132027
+31.170.139.212 3 16 203478 20180620200515
+173.252.92.114 0 9 854255 
+185.246.155.199 2 16 703663 20180626092643
+173.252.98.27 2 10 202095 20180620102406
+172.104.13.120 1 1 29561 20180613114213
+128.69.230.113 1 14 138026 20180624014624
+66.220.151.176 0 1 3512 
+194.60.69.166 2 16 703663 20180627155521
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180601 17 166 28690967 6
+20180602 16 79 13475023 8
+20180603 10 68 1814264 6
+20180604 18 167 37747964 8
+20180605 5 33 1414946 4
+20180606 15 143 16534905 5
+20180607 20 173 16826689 11
+20180608 20 154 5468171 9
+20180609 8 45 1083231 4
+20180610 19 174 27907326 9
+20180611 10 92 13455768 6
+20180612 10 82 13658024 5
+20180613 32 220 29559833 14
+20180614 21 191 18523192 6
+20180615 20 126 3355754 10
+20180616 9 81 13650404 6
+20180617 3 17 369781 1
+20180618 16 100 2360162 12
+20180619 12 92 13808898 7
+20180620 8 38 458487 6
+20180621 5 33 1407681 3
+20180622 18 173 27829063 10
+20180623 19 188 39231487 9
+20180624 13 81 2584687 10
+20180625 14 146 27596293 5
+20180626 16 186 48818504 9
+20180627 11 60 1323565 5
+20180628 13 162 26830639 6
+20180629 8 82 14621213 3
+20180630 2 2 37181 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 5
+2mn-5mn 10
+30s-2mn 14
+0s-30s 173
+15mn-30mn 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 198 1815252 172 67
+/fonts/fontawesome-webfont.woff 142 9163280 20 92
+/gallery.html 33 74481 9 22
+/fonts/glyphicons-halflings-regular.woff 15 349380 0 11
+/fonts/fontawesome-webfont.eot 9 504054 0 6
+/fonts/glyphicons-halflings-regular.eot 7 142030 0 3
+/fonts/fontawesome-webfont.ttf 2 224320 2 2
+/google688c578a7c90e33b.html 1 355 1 1
+/fonts/glyphicons-halflings-regular.ttf 1 41236 1 1
+END_SIDER
